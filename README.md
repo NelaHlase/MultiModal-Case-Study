@@ -1,1 +1,1 @@
-# MultiModal-Case-Study
+# MultiModal Case Study
